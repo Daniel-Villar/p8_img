@@ -25,7 +25,7 @@ class MiImagen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text(
-                "album ATE github",
+                "album ATE en github",
                 style: TextStyle(
                   fontSize: 20,
                   fontStyle: FontStyle.italic,
